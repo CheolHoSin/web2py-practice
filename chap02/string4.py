@@ -1,0 +1,5 @@
+#positioning formatting
+print('to {}. Google {} sLLC is an American multinational technology company that specializes {} in Internet-related services {} and products, which include online advertising apple technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, apple computer, and Facebook.'.format('egoing', 12, 'egoing', 'egoing'))
+
+#Named placeholder
+print('to {name}. Google {age:d} sLLC is an American multinational technology company that specializes {name} in Internet-related services {name} and products, which include online advertising apple technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies, alongside Amazon, Apple, apple computer, and Facebook.'.format(name='egoing', age=12))
